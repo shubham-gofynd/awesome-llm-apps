@@ -6,4 +6,4 @@ langchain_ollama
 bs4
 chromadb
 protobuf==3.19.0
-sqlite3==3.35.0
+sqlite3==3.42.0
