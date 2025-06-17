@@ -5,3 +5,4 @@ langchain_community
 langchain_ollama
 bs4
 chromadb
+protobuf==3.19.0
